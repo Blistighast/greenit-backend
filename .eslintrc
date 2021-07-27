@@ -1,0 +1,3 @@
+{
+  "extends": ["wesbos", "plugin:import/typescript"]
+}

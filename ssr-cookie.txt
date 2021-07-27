@@ -1,0 +1,4 @@
+ssr
+    browser -> next.js -> graphql api, cookie goes to next.js and doesnt do anything, need to tell next.js to send it
+client side
+    browser -> graphql api, cookie goes to graphql and works
